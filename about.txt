@@ -1,11 +1,19 @@
 My hobbies:
 - Playing volleyball
 - Listening to music
-- Watching movies /n
+- Watching movies
 
 My skills:
 - Basic computer skills
 - Communication
+ HEAD
 - skills
 - Time management
 Favourite Sport: Badminton
+
+- Teamwork
+- Time management
+
+Favourite Sports: Pickle Ball
+feature-conflict
+Favourite Sport: Volleyball,Pickle Ball, And Badminton
